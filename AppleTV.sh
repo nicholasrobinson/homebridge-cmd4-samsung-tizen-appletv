@@ -3,9 +3,6 @@
 # Script for opening the AppleTV app on a Samsung Tizen device.
 # Usage: bash AppleTV.sh Set <DEVICE_IP> On true
 
-echo "triggered" >> /tmp/test
-echo "\$1='$1' \$2='$2' \$3='$3' \$4='$4'" >> /tmp/test
-
 if [ "$1" = "Get" ]; then
    # Stateless switch is always off
    echo "0"

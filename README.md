@@ -1,3 +1,11 @@
+# Motivation
+
+The homebridge-samsung-tizen issue:
+https://github.com/tavicu/homebridge-samsung-tizen/issues/100
+
+Prevents AppleTV being configured as an *Input* or *Switch*. This script creates a standlone switch to open the AppleTV app on a Samsung Tizen device via Homebridge.
+
+# Example config.json
 ```
 ...
     {
