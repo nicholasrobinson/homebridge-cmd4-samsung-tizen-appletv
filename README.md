@@ -1,3 +1,8 @@
+# Note
+
+This script is no longer necessary following:
+https://github.com/tavicu/homebridge-samsung-tizen/pull/185
+
 # Motivation
 
 The homebridge-samsung-tizen issue:
